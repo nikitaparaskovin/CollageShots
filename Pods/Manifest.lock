@@ -1,0 +1,24 @@
+PODS:
+  - OneSignal (2.10.1)
+  - QBImagePickerController (3.4.0)
+  - SCWaveformView (2.0.6)
+
+DEPENDENCIES:
+  - OneSignal
+  - QBImagePickerController
+  - SCWaveformView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - OneSignal
+    - QBImagePickerController
+    - SCWaveformView
+
+SPEC CHECKSUMS:
+  OneSignal: 8fb749fa07f88006403c9b659a570fb7fb74519a
+  QBImagePickerController: d54cf93db6decf26baf6ed3472f336ef35cae022
+  SCWaveformView: 78b3503675aafcdaf9c283d68cb45c9fc735af87
+
+PODFILE CHECKSUM: d9c41c5b2441e3bd293966732a26b596efc52f36
+
+COCOAPODS: 1.7.5

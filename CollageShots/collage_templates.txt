@@ -1,0 +1,73 @@
+{
+"collage_templates":{
+    "heights":{"small": 96, "big":360},
+    "templates":[
+        {"index":1,
+            "scrolls": [{"x":0, "y":0, "width": 180, "height":180},
+                        {"x":180, "y":0, "width": 180, "height":180},
+                        {"x":0, "y":180, "width": 180, "height":180},
+                        {"x":180, "y":180, "width": 180, "height":180}],
+            "small_template":[{"start_x": 48, "start_y":0, "end_x":48, "end_y":96},
+                            {"start_x": 0, "start_y":48, "end_x":96, "end_y":48}]
+        },
+        {"index":2,
+            "scrolls": [{"x":0, "y":0, "width": 180, "height":360},
+                        {"x":180, "y":0, "width": 180, "height":360}],
+            "small_template":[{"start_x": 48, "start_y":0, "end_x":48, "end_y":96}]
+        },
+        {"index":2,
+            "scrolls": [{"x":0, "y":0, "width": 360, "height":180},
+                        {"x":0, "y":180, "width": 360, "height":180}],
+            "small_template":[{"start_x": 0, "start_y":48, "end_x":96, "end_y":48}]
+        },
+        {"index":2,
+            "scrolls": [{"x":0, "y":0, "width": 360, "height":180},
+                        {"x":0, "y":180, "width": 180, "height":180},
+                        {"x":180, "y":180, "width": 180, "height":180}],
+            "small_template":[{"start_x": 0, "start_y":48, "end_x":96, "end_y":48},
+                            {"start_x": 48, "start_y":48, "end_x":48, "end_y":96}]
+        },
+        {"index":2,
+            "scrolls": [{"x":0, "y":180, "width": 360, "height":180},
+                        {"x":0, "y":0, "width": 180, "height":180},
+                        {"x":180, "y":0, "width": 180, "height":180}],
+            "small_template":[{"start_x": 0, "start_y":48, "end_x":96, "end_y":48},
+                            {"start_x": 48, "start_y":0, "end_x":48, "end_y":48}]
+        },
+        {"index":2,
+            "scrolls": [{"x":0, "y":0, "width": 180, "height":360},
+                        {"x":180, "y":0, "width": 180, "height":180},
+                        {"x":180, "y":180, "width": 180, "height":180}],
+            "small_template":[{"start_x": 48, "start_y":0, "end_x":48, "end_y":96},
+                            {"start_x": 48, "start_y":48, "end_x":96, "end_y":48}]
+        },
+        {"index":3,
+            "scrolls": [{"x":0, "y":0, "width": 180, "height":120},
+                        {"x":0, "y":120, "width": 180, "height":120},
+                        {"x":0, "y":240, "width": 180, "height":120},
+                        {"x":180, "y":0, "width": 180, "height":360}],
+            "small_template":[{"start_x": 48, "start_y":0, "end_x":48, "end_y":96},
+                        {"start_x": 0, "start_y":31.99999, "end_x":48, "end_y":31.99999},
+                        {"start_x": 0, "start_y":63.99999, "end_x":48, "end_y":63.99999}]
+        },
+        {"index":4,
+            "scrolls": [{"x":0, "y":0, "width": 360, "height":90},
+                        {"x":0, "y":90, "width": 360, "height":90},
+                        {"x":0, "y":180, "width": 360, "height":90},
+                        {"x":0, "y":270, "width": 360, "height":90}],
+            "small_template":[{"start_x": 0, "start_y":24, "end_x":96, "end_y":24},
+                            {"start_x": 0, "start_y":48, "end_x":96, "end_y":48},
+                            {"start_x": 0, "start_y":72, "end_x":96, "end_y":72}]
+        },
+        {"index":1,
+            "scrolls": [{"x":0, "y":0, "width": 90, "height":360},
+                        {"x":90, "y":0, "width": 90, "height":360},
+                        {"x":180, "y":0, "width": 90, "height":360},
+                        {"x":270, "y":0, "width": 90, "height":360} ],
+            "small_template":[{"start_x": 24, "start_y":0, "end_x":24, "end_y":96},
+                            {"start_x": 48, "start_y":0, "end_x":48, "end_y":96},
+                            {"start_x": 72, "start_y":0, "end_x":72, "end_y":96}]
+        }
+    ]
+}
+}

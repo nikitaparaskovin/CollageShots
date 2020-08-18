@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "Add Music"; ObjectID = "OsF-ws-iPA"; */
+"OsF-ws-iPA.normalTitle" = "Добавить музыку";
+
+/* Class = "UIButton"; normalTitle = "Let's Film"; ObjectID = "V0m-8d-n0h"; */
+"V0m-8d-n0h.normalTitle" = "Давай фильм";
+
+/* Class = "UILabel"; text = "No Collages. Please create your collage by clicking plus button on the top right."; ObjectID = "W6p-zp-6GF"; */
+"W6p-zp-6GF.text" = "Нет коллажей. Пожалуйста, создайте свой коллаж, нажав кнопку плюс в правом верхнем углу.";
+
+/* Class = "UILabel"; text = "Playing..."; ObjectID = "fTj-ev-sfL"; */
+"fTj-ev-sfL.text" = "Игра ...";

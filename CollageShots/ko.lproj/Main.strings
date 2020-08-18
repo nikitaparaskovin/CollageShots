@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Start 00:00, 00:00 Remained"; ObjectID = "Lgm-lI-V04"; */
+"Lgm-lI-V04.text" = "시작 00:00, 00:00 남아";
+
+/* Class = "UIButton"; normalTitle = "Add Music"; ObjectID = "OsF-ws-iPA"; */
+"OsF-ws-iPA.normalTitle" = "음악 추가";
+
+/* Class = "UIButton"; normalTitle = "Let's Film"; ObjectID = "V0m-8d-n0h"; */
+"V0m-8d-n0h.normalTitle" = "영화를 만들자";
+
+/* Class = "UILabel"; text = "No Collages. Please create your collage by clicking plus button on the top right."; ObjectID = "W6p-zp-6GF"; */
+"W6p-zp-6GF.text" = "콜라주 없음. 오른쪽 상단의 더하기 버튼을 클릭하여 콜라주를 만드십시오.";
+
+/* Class = "UILabel"; text = "Playing..."; ObjectID = "fTj-ev-sfL"; */
+"fTj-ev-sfL.text" = "재생 중 ...";

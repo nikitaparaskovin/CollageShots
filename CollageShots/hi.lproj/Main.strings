@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "Add Music"; ObjectID = "OsF-ws-iPA"; */
+"OsF-ws-iPA.normalTitle" = "संगीत जोड़ें";
+
+/* Class = "UIButton"; normalTitle = "Let's Film"; ObjectID = "V0m-8d-n0h"; */
+"V0m-8d-n0h.normalTitle" = "चलो फिल्म करते हैं";
+
+/* Class = "UILabel"; text = "No Collages. Please create your collage by clicking plus button on the top right."; ObjectID = "W6p-zp-6GF"; */
+"W6p-zp-6GF.text" = "कोई कोलाज नहीं। कृपया ऊपर दाईं ओर प्लस बटन पर क्लिक करके अपना कोलाज बनाएं।";
+
+/* Class = "UILabel"; text = "Playing..."; ObjectID = "fTj-ev-sfL"; */
+"fTj-ev-sfL.text" = "खेल रहे हैं...";
