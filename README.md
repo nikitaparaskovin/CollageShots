@@ -1,0 +1,2 @@
+# CollageShots
+Photo collage maker
